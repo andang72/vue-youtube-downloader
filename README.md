@@ -1,47 +1,20 @@
-# [Vue Material Kit 2](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit)
+# [Vue Youtube Downloader]
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-0.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/andang72/vue-youtube-downloader.svg)](https://github.com/andang72/vue-youtube-downloader/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/andang72/vue-youtube-downloader.svg)](https://github.com/andang72/vue-youtube-downloader/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/97/original/vue-material-kit-2.jpg)
 
-Vue Material Kit 2 is our newest free VueJS Design System. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
+Vue YouTube Downloader is based on Material Kit 2.
 
 **Fully Coded Elements**
 
-Vue Material Kit 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-
-This free VueJS 3 & Bootstrap 5 template is coming with pre-built design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
-View [all components here.](https://www.creative-tim.com/learning-lab/vue/alerts/material-kit/)
-
 **Documentation built by Developers**
-
-Each element is well presented in very complex documentation.
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/).
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
-
-View [example pages here.](https://demos.creative-tim.com/vue-material-kit/)
-
-**HELPFUL LINKS**
-
-- View [Github Repository](https://github.com/creativetimofficial/vue-material-kit)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [VueJS 3](https://vuejs.org/) - An approachable, performant and versatile framework for building web user interfaces.
-- [Bootstrap 5](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-- [Pinia](https://pinia.vuejs.org/) - The Vue Store that you will enjoy using.
-- [PrismJS](https://prismjs.com/) - A lightweight and extensible syntax highlighter.
-- [TypedJS](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library.
-- [Vue Clipboard 3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3.
-- [Vue Count To](http://panjiachen.github.io/countTo/demo/) - A dependency-free, lightweight vue component for count up.
+- [Vue Material Kit 2](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Design Kit
 
 Let us know your thoughts below. And good luck with development!
 
@@ -160,12 +133,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk)
-- [Buy Page](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmk)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-vmk)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-vmk)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-material-kit/issues)
+- [Vue Material Kit 2](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Design Kit  
 
 ## Reporting Issues
 
@@ -174,34 +142,3 @@ We use GitHub Issues as the official bug tracker for the Vue Material Kit 2. Her
 1. Make sure that you are using the latest version of the Vue Material Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-vmk) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-vmk)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vmk)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-vmk) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmk) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vmk) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
