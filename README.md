@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-0.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/andang72/vue-youtube-downloader.svg)](https://github.com/andang72/vue-youtube-downloader/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/andang72/vue-youtube-downloader.svg)](https://github.com/andang72/vue-youtube-downloader/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/97/original/vue-material-kit-2.jpg)
+![Image](https://raw.githubusercontent.com/andang72/vue-youtube-downloader/5eea522ebdb5961dbde80b69e991aaafa4750fcd/app-main.png)
 
 Vue YouTube Downloader is based on Material Kit 2.
 
