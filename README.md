@@ -6,17 +6,12 @@
 
 Vue YouTube Downloader is based on Material Kit 2.
 
-**Fully Coded Elements**
-
-**Documentation built by Developers**
-
 #### Special thanks
 
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+During the development of this web application, i have used many existing resources from other developers. 
+I want to thank them for providing their tools open source:
 
 - [Vue Material Kit 2](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Design Kit
-
-Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
@@ -34,7 +29,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+[<img src="[https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true](https://img.shields.io/badge/version-0.0.1-blue.svg)" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
 
 | VueJS |
 | ----- |
