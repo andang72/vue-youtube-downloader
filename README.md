@@ -15,7 +15,6 @@ I want to thank them for providing their tools open source:
 
 ## Table of Contents
 
-- [Versions](#versions)
 - [Demo](#demo)
 - [Quick Start](#quick-start)
 - [Documentation](#documentation)
@@ -26,15 +25,6 @@ I want to thank them for providing their tools open source:
 - [Technical Support or Questions](#technical-support-or-questions)
 - [Licensing](#licensing)
 - [Useful Links](#useful-links)
-
-## Versions
-
-[<img src="[https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true](https://img.shields.io/badge/version-0.0.1-blue.svg)" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
-
-| VueJS |
-| ----- |
-
-| [![Vue Material Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/97/thumb/vue-material-kit-2.jpg)](http://demos.creative-tim.com/vue-material-kit/?ref=readme-vmk)
 
 ## Demo
 
