@@ -18,8 +18,8 @@ I want to thank them for providing their tools open source:
 This is cover only front-edn and requires back-end API services.
 
 Below is an example of Spring-based back-end API implementation.
-
-<script src="https://gist.github.com/donghyuck/235b88366aa3c9b597944d33ad9e256f.js"></script>
+ 
+{% gist 235b88366aa3c9b597944d33ad9e256f %}
 
 ## Browser Support
 
