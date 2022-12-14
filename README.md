@@ -15,6 +15,7 @@ I want to thank them for providing their tools open source:
 - [java-youtube-downloader](https://github.com/sealedtx/java-youtube-downloader) - java-youtube-downloader
   
 ## Documentation
+This is cover only front-edn and requires back-end API services.
 
 ## Browser Support
 
