@@ -16,7 +16,7 @@ defineProps({
       class: "",
     }),
   },
-  value: {
+  modelValue: {
     type: String,
     default: "",
   },
@@ -53,6 +53,12 @@ defineProps({
     default: "",
   },
 });
+
+const emit = defineEmits(['update:modelValue'])
+const updateValue = (event) => { 
+  emit('update:modelValue', event.target.value)
+}
+
 function getClasses(size, success, error) {
   let sizeValue, isValidValue;
 
@@ -82,7 +88,8 @@ function getClasses(size, success, error) {
       :type="type"
       class="form-control"
       :class="[getClasses(size, success, error), inputClass]"
-      :value="value"
+      :value="modelValue" 
+      @input="updateValue"
       :placeholder="placeholder"
       :isRequired="isRequired"
       :disabled="isDisabled"
