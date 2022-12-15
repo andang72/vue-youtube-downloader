@@ -15,6 +15,9 @@ I want to thank them for providing their tools open source:
 - [java-youtube-downloader](https://github.com/sealedtx/java-youtube-downloader) - java-youtube-downloader
   
 ## Documentation
+
+https://andang72.blogspot.com/2022/12/vue3-spring.html
+
 This is cover only front-edn and requires back-end API services.
 
 Below is an example of Spring-based back-end API implementation.
