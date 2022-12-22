@@ -13,9 +13,15 @@ import "./assets/css/nucleo-svg.css";
 
 import materialKit from "./material-kit";
 
+
+// floating vue
+import FloatingVue from 'floating-vue'
+import 'floating-vue/dist/style.css'
+
 const app = createApp(App);
 app.use(createPinia());
 app.use(router);
 app.use(materialKit);
 app.use(LoadingPlugin);
+app.use(FloatingVue);
 app.mount("#app");

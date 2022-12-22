@@ -9,6 +9,7 @@ import TransparentVideoCard from "./TransparentVideoCard.vue";
 
 //image
 import bg0 from "@/assets/img/bg10.jpg";
+import bg1 from "@/assets/img/bg11.jpg";
 
 //dep
 import Typed from "typed.js";
@@ -55,6 +56,7 @@ function downloadYoutube() {
       videoInfo.lengthSeconds = data.details.lengthSeconds;
       videoInfo.live = data.details.live;
       videoInfo.viewCount = data.details.viewCount;
+      videoInfo.author = data.details.author;
     })
     .catch(error => {
       /*if (
@@ -98,7 +100,7 @@ onUnmounted(() => {
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center mx-auto my-auto">
-
+            <img :src="bg1" style="width:50vw;" />
           </div>
         </div>
       </div>
